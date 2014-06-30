@@ -10,7 +10,7 @@ OnVehicleCreate
 	*public OnVehicleCreate(modelid, cx, cy, cz, cangle, vehid)
 	*public OnVehicleDestroy(modelid, cx, cy, cz, vehid, succes, sremove)
 	
-	I also made a replacement for the classic <for(new i; i<MAX_VEHICLES; i++)>.
+	I also made a replacement for the classic < for(new i; i<MAX_VEHICLES; i++) >.
 	
 *	If you use the foreach inc, this inc automatically creates an array with all the vehicles created.
 	You can then simply use it like:
