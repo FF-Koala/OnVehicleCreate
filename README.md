@@ -4,6 +4,7 @@ OnVehicleCreate
 *	Author:		Koala
 *	Title:		Simple OnVehicleCreate, OnVehicleDestroy callback
 *	Version:	0.1
+*	Credits: Y_Less for "foreach"
 *	Description:
 
 	This include gives you 2 usefull callbacks:
@@ -27,8 +28,4 @@ OnVehicleCreate
 	{
 	ChangeVehicleColor(i, random(256), random(256));
 	}
-
- This was first seen at Gta-Mp.ro
-
- Credits: Y_Less for "foreach"
 
