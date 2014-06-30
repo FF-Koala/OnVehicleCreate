@@ -17,7 +17,7 @@ OnVehicleCreate
 
 	foreach(Vehicle, i)
 	{
-		ChangeVehicleColor(i, random(256), random(256));
+	ChangeVehicleColor(i, random(256), random(256));
 	}
 
 *	If you don't use the foreach inc, then this inc will automatically create an var wich contains the total number of ehicles created.
@@ -25,7 +25,7 @@ OnVehicleCreate
 
 	for(new i; i<OVC_TC; i++;)
 	{
-		ChangeVehicleColor(i, random(256), random(256));
+	ChangeVehicleColor(i, random(256), random(256));
 	}
 
  This was first seen at Gta-Mp.ro
