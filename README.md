@@ -1,7 +1,6 @@
 OnVehicleCreate
 ===============
 
-/*
 *	Author:		Koala
 *	Title:		Simple OnVehicleCreate, OnVehicleDestroy callback
 *	Version:	0.1
@@ -33,5 +32,4 @@ OnVehicleCreate
 *	This was first seen at Gta-Mp.ro
 *
 * Credits: Y_Less for "foreach"
-*
-*/
+
