@@ -14,6 +14,7 @@ OnVehicleCreate
 	
 *	If you use the foreach inc, this inc automatically creates an array with all the vehicles created.
 	You can then simply use it like:
+
 	foreach(Vehicle, i)
 	{
 		ChangeVehicleColor(i, random(256), random(256));
@@ -21,6 +22,7 @@ OnVehicleCreate
 
 *	If you don't use the foreach inc, then this inc will automatically create an var wich contains the total number of ehicles created.
 	You can then simply use it like:
+
 	for(new i; i<OVC_TC; i++;)
 	{
 		ChangeVehicleColor(i, random(256), random(256));
