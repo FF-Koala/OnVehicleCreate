@@ -9,7 +9,7 @@ OnVehicleCreate
 
 	This include gives you 2 usefull callbacks:
 *	public OnVehicleCreate(modelid, cx, cy, cz, cangle, vehid)
-*	public OnVehicleDestroy(modelid, cx, cy, cz, vehid, succes, sremove)
+*	public OnVehicleDestroy(modelid, cx, cy, cz, vehid, succes, saferemove)
 
 	I also made a replacement for the classic >> for(new i; i<MAX_VEHICLES; i++) <<.
 	
